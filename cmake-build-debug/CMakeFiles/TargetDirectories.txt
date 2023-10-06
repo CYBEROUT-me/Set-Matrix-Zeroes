@@ -1,0 +1,3 @@
+C:/Users/yukhn/CLionProjects/73. Set Matrix Zeroes/cmake-build-debug/CMakeFiles/73__Set_Matrix_Zeroes_.dir
+C:/Users/yukhn/CLionProjects/73. Set Matrix Zeroes/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yukhn/CLionProjects/73. Set Matrix Zeroes/cmake-build-debug/CMakeFiles/rebuild_cache.dir
